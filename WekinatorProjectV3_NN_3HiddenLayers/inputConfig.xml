@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/wek/inputs</oscMessage>
+  <numInputs>10</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>Current Temp</string>
+    <string>Atmos Pressure</string>
+    <string>Humidity</string>
+    <string>Temp Min</string>
+    <string>Temp Max</string>
+    <string>Clouds</string>
+    <string>Wind Speed</string>
+    <string>Wind Direction</string>
+    <string>Longitude</string>
+    <string>Latitude</string>
+  </inputNames>
+</OSCInputGroup>
