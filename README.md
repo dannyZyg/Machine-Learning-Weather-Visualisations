@@ -8,8 +8,10 @@ I wanted to create a machine learning program that felt generative, despite all 
 
 # Getting Started
 
-Requires [Wekinator] (http://www.wekinator.org/) 
+Requires Wekinator (http://www.wekinator.org/) 
 
 Run the `WekinatorProjectV3_NN_3HiddenLayers.wekproj`
+
 Run the `openWeatherAPI.pde`
+
 Then run the `WeatherVisualisation.pde`
